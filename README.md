@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cybergir
-- I am good at python, javascript and C#
-- 👀 I’m a software engineer and google cloud engineer.
+- 👋 Hi, I’m Dorothy Mwende
+- I am good at python, javascript, typescript and C#
+- 👀 I’m a software engineer and upcoming AWS Cloud Solutions Architect
 - 📫 How to reach me, you can reach me through my facebook account Dorothy Mwende, through Twitter @mwendemartin facebook and Instagram ruby.mwesh
 
 <!---
